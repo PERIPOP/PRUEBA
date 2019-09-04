@@ -1,0 +1,15 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kodi-peripop" name="Kodi-peripop official Repo" version="1.1.0" provider-name="patipatuprimo">
+	<extension point="xbmc.addon.repository" name="repository.kodi-peripop">
+		<info compressed="false">https://raw.githubusercontent.com/PERIPOP/PRUEBA/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/PERIPOP/PRUEBA/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/PERIPOP/PRUEBA/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Kodi-Mexico official Repo</summary>
+   		<description lang="en">Instala los Addons para Apple Tv.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
